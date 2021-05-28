@@ -1,0 +1,4 @@
+75 lewo	
+72 góra
+77 prawo
+80 dól
